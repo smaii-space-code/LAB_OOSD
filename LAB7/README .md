@@ -1,4 +1,4 @@
-Ệ THỐNG QUẢN LÝ NHÂN SỰ - CÔNG TY SƠN ĐÔNG Á
+HỆ THỐNG QUẢN LÝ NHÂN SỰ - CÔNG TY SƠN ĐÔNG Á
 
 Đồ án thực hành môn Phương pháp Phát triển Phần mềm Hướng đối tượng (OOSD) - Bài 7.
 Dự án ứng dụng phân tích thiết kế hướng đối tượng, xây dựng hệ thống phần mềm (C# WinForms & SQL Server) để tin học hóa quy trình quản lý nhân sự từ khâu tuyển dụng, ký hợp đồng, chấm công đến tính lương và khen thưởng, kỷ luật tại Công ty Sơn Đông Á.
